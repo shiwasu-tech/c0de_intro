@@ -1,0 +1,1 @@
+This repository is folder of website made by @wshiwasu-tech
